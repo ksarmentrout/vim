@@ -1,0 +1,6 @@
+# Swap files
+[._]*.s*
+
+# Temporary files
+.netrwhist
+
